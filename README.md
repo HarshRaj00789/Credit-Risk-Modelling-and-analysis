@@ -35,7 +35,5 @@ Other machine learning models
 Running the Notebook
 Clone this repository:
 bash
-Copy code
-git clone https://github.com/yourusername/credit-risk-modelling.git
-Ensure that the necessary dependencies are installed.
+
 Open the notebook and run the cells in sequence to load the dataset, explore the data, and perform the modeling tasks.
